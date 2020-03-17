@@ -11,8 +11,14 @@ If you find IRMM useful in your research, we ask that you cite the following pap
 
 >@inproceedings{kumar2019new,
 >  title={A New Measure of Modularity in Hypergraphs: Theoretical Insights and Implications for Effective Clustering},
+
 >  author={Kumar, Tarun and Vaidyanathan, Sankaran and Ananthapadmanabhan, Harini and Parthasarathy, Srinivasan and Ravindran, Balaraman},
+
 >  booktitle={International Conference on Complex Networks and Their Applications},
+
 >  pages={286--297},
+
 >  year={2019},
+
 >  organization={Springer}}
+
